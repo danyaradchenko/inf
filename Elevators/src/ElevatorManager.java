@@ -1,0 +1,3 @@
+interface ElevatorManager {
+    boolean free();
+}
